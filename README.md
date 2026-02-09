@@ -1,6 +1,6 @@
-# Sentiment Analysis Bahasa Indonesia
+# Analisis Sentimen Aplikasi Theotown
 
-Proyek ini merupakan implementasi analisis sentimen teks Bahasa Indonesia
+Proyek ini merupakan implementasi analisis sentimen teks Bahasa Indonesia untuk aplikasi TheoTown
 dengan membandingkan beberapa metode ekstraksi fitur dan model klasifikasi.
 
 ## 📊 Dataset
